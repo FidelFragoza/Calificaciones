@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Datos\\Escritorio\\PSW-P9\\API\\Calificaciones\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB7103CF-E02C-400B-B126-7624F0E218AC}|Calificaciones\\Calificaciones.csproj|d:\\datos\\escritorio\\psw-p9\\api\\calificaciones\\calificaciones\\models\\contexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB7103CF-E02C-400B-B126-7624F0E218AC}|Calificaciones\\Calificaciones.csproj|solutionrelative:calificaciones\\models\\contexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB7103CF-E02C-400B-B126-7624F0E218AC}|Calificaciones\\Calificaciones.csproj|d:\\datos\\escritorio\\psw-p9\\api\\calificaciones\\calificaciones\\controllers\\calificacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB7103CF-E02C-400B-B126-7624F0E218AC}|Calificaciones\\Calificaciones.csproj|solutionrelative:calificaciones\\controllers\\calificacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB7103CF-E02C-400B-B126-7624F0E218AC}|Calificaciones\\Calificaciones.csproj|d:\\datos\\escritorio\\psw-p9\\api\\calificaciones\\calificaciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB7103CF-E02C-400B-B126-7624F0E218AC}|Calificaciones\\Calificaciones.csproj|solutionrelative:calificaciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB7103CF-E02C-400B-B126-7624F0E218AC}|Calificaciones\\Calificaciones.csproj|d:\\datos\\escritorio\\psw-p9\\api\\calificaciones\\calificaciones\\models\\calificaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB7103CF-E02C-400B-B126-7624F0E218AC}|Calificaciones\\Calificaciones.csproj|solutionrelative:calificaciones\\models\\calificaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Datos\\Escritorio\\PSW-P9\\API\\Calificaciones\\Calificaciones\\Program.cs",
+              "RelativeDocumentMoniker": "Calificaciones\\Program.cs",
+              "ToolTip": "D:\\Datos\\Escritorio\\PSW-P9\\API\\Calificaciones\\Calificaciones\\Program.cs",
+              "RelativeToolTip": "Calificaciones\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T08:54:56.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalificacionController.cs",
+              "DocumentMoniker": "D:\\Datos\\Escritorio\\PSW-P9\\API\\Calificaciones\\Calificaciones\\Controllers\\CalificacionController.cs",
+              "RelativeDocumentMoniker": "Calificaciones\\Controllers\\CalificacionController.cs",
+              "ToolTip": "D:\\Datos\\Escritorio\\PSW-P9\\API\\Calificaciones\\Calificaciones\\Controllers\\CalificacionController.cs",
+              "RelativeToolTip": "Calificaciones\\Controllers\\CalificacionController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T08:51:12.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Contexto.cs",
+              "DocumentMoniker": "D:\\Datos\\Escritorio\\PSW-P9\\API\\Calificaciones\\Calificaciones\\Models\\Contexto.cs",
+              "RelativeDocumentMoniker": "Calificaciones\\Models\\Contexto.cs",
+              "ToolTip": "D:\\Datos\\Escritorio\\PSW-P9\\API\\Calificaciones\\Calificaciones\\Models\\Contexto.cs",
+              "RelativeToolTip": "Calificaciones\\Models\\Contexto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T08:47:34.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Calificaciones.cs",
+              "DocumentMoniker": "D:\\Datos\\Escritorio\\PSW-P9\\API\\Calificaciones\\Calificaciones\\Models\\Calificaciones.cs",
+              "RelativeDocumentMoniker": "Calificaciones\\Models\\Calificaciones.cs",
+              "ToolTip": "D:\\Datos\\Escritorio\\PSW-P9\\API\\Calificaciones\\Calificaciones\\Models\\Calificaciones.cs",
+              "RelativeToolTip": "Calificaciones\\Models\\Calificaciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T08:46:41.956Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
